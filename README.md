@@ -1,29 +1,33 @@
-# My HTML & CSS Project
+Meu Projeto HTML & CSS
+Visão Geral
+Este projeto é uma página de perfil simples criada utilizando tags semânticas do HTML5 e estilizada com CSS. Ele apresenta um perfil pessoal com seções para informações pessoais, habilidades, projetos e detalhes de contato.
 
-## Overview
-This project is a simple profile page created using HTML5 semantic tags and styled with CSS. It showcases a personal profile with sections for personal information, skills, projects, and contact details.
+Estrutura de Arquivos
+css
+Copiar
+Editar
+my-html-css-project  
+├── perfil.html  
+├── styles.css  
+└── README.md  
+Descrição dos Arquivos
+perfil.html: Contém a estrutura principal da página de perfil, utilizando tags semânticas do HTML5.
 
-## File Structure
-```
-my-html-css-project
-├── perfil.html
-├── styles.css
-└── README.md
-```
+styles.css: Contém os estilos da página de perfil, utilizando Flexbox e CSS Grid para o layout.
 
-## Files Description
-- **perfil.html**: Contains the main structure of the profile page using semantic HTML5 tags.
-- **styles.css**: Contains the styles for the profile page, utilizing Flexbox and CSS Grid for layout.
+Instruções de Configuração
+Clone o repositório para sua máquina local.
 
-## Setup Instructions
-1. Clone the repository to your local machine.
-2. Open `perfil.html` in a web browser to view the profile page.
-3. Modify `styles.css` to customize the appearance as needed.
+Abra o arquivo perfil.html em um navegador para visualizar a página de perfil.
 
-## Features
-- Responsive design using media queries.
-- Utilizes CSS variables for easier theme management.
-- Includes sections for personal information, skills, projects, and contact details.
+Modifique o styles.css para personalizar a aparência conforme necessário.
 
-## Additional Notes
-Feel free to expand upon this project by adding more sections or improving the styles.
+Funcionalidades
+Design responsivo usando media queries.
+
+Utiliza variáveis CSS para facilitar o gerenciamento de tema.
+
+Inclui seções para informações pessoais, habilidades, projetos e detalhes de contato.
+
+Notas Adicionais
+Sinta-se à vontade para expandir este projeto adicionando mais seções ou aprimorando os estilos.
